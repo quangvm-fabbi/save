@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Quang Vu <quangvm1998@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/QuangVu11/php_oe27_lab_ecommerce",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "admin_bower": "https://github.com/QuangVu11/admin_bower.git"
+  }
+}
